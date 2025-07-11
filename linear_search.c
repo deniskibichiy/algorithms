@@ -19,12 +19,12 @@ int main ()
         {
             found = 1;
             pos = i;
-            printf("\n %d is found in the array at position = %d", num, i +1);
+            printf("\n %d is found in the array at position = %d \n", num, i +1);
             break;
         }
     }
     if (found == 0)
-    printf("\n %d does not exist in the array", num);
+    printf("\n %d does not exist in the array\n", num);
     return 0;
 
 }
