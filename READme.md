@@ -48,3 +48,6 @@
 * The complexity is calculated depending on the number of comparisons made. 
 * With each comparison, the number of elements is reduced to half. 
 * Complexity is therefore: O(n) = log(base 2) n
+
+# Sorting algorithms
+## Selection sort algorithm
